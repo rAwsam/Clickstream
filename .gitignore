@@ -1,0 +1,7 @@
+data/ 
+*.csv 
+*.duckdb 
+*.tmp 
+clickstream_temp.tmp/ 
+__pycache__/ 
+.vscode/
